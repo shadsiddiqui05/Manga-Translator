@@ -81,7 +81,7 @@ Manga-Translator/
 │   ├── Dockerfile           # Backend Environment Config
 │   └── requirements.txt     # AI Dependencies
 │
-└── ai_service/client/       # ⚛️ React Frontend Container
+└── client/       # ⚛️ React Frontend Container
     ├── src/                 # UI Components
     ├── public/              # Static Assets
     └── Dockerfile           # Frontend Environment Config
